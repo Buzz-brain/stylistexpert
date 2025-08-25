@@ -1,7 +1,7 @@
 
-# AI Fashion Stylist Frontend
+# StylistExpert Frontend
 
-A luxury-styled React frontend for the AI Fashion Stylist expert system, providing an interactive and cinematic user experience for personalized fashion recommendations.
+A luxury-styled React frontend for the StylistExpert web app, providing an interactive and cinematic user experience for personalized fashion recommendations.
 
 ## Features
 
