@@ -49,6 +49,28 @@ Welcome to the frontend of **StylistExpert**, an AI-powered fashion recommendati
 
 ---
 
+
+## 🖼️ Screenshots
+
+<div align="center">
+  <img src="./images/home-page.png" alt="Home Page" width="80%" />
+  <br><em>Home Page</em>
+  <br><br>
+  <img src="./images/input-form.png" alt="Input Form" width="80%" />
+  <br><em>Input Form</em>
+  <br><br>
+  <img src="./images/recommendation-one.png" alt="Recommendation Example 1" width="80%" />
+  <br><em>Recommendation Example 1</em>
+  <br><br>
+  <img src="./images/recommendation-two.png" alt="Recommendation Example 2" width="80%" />
+  <br><em>Recommendation Example 2</em>
+  <br><br>
+  <img src="./images/recommendation-three.png" alt="Recommendation Example 3" width="80%" />
+  <br><em>Recommendation Example 3</em>
+</div>
+
+---
+
 ## 📁 Project Structure
 
 ```
