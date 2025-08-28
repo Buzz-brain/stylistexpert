@@ -53,20 +53,20 @@ Welcome to the frontend of **StylistExpert**, an AI-powered fashion recommendati
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="./images/home-page.png" alt="Home Page" width="80%" />
-  <br><em>Home Page</em>
+  <b>Home Page</b>
+  <br><img src="./images/home-page.png" alt="Home Page" width="80%" />
   <br><br>
-  <img src="./images/input-form.png" alt="Input Form" width="80%" />
-  <br><em>Input Form</em>
+  <b>Input Form</b>
+  <br><img src="./images/input-form.png" alt="Input Form" width="80%" />
   <br><br>
-  <img src="./images/recommendation-one.png" alt="Recommendation Example 1" width="80%" />
-  <br><em>Recommendation Example 1</em>
+  <b>Recommendation Example 1</b>
+  <br><img src="./images/recommendation-one.png" alt="Recommendation Example 1" width="80%" />
   <br><br>
-  <img src="./images/recommendation-two.png" alt="Recommendation Example 2" width="80%" />
-  <br><em>Recommendation Example 2</em>
+  <b>Recommendation Example 2</b>
+  <br><img src="./images/recommendation-two.png" alt="Recommendation Example 2" width="80%" />
   <br><br>
-  <img src="./images/recommendation-three.png" alt="Recommendation Example 3" width="80%" />
-  <br><em>Recommendation Example 3</em>
+  <b>Recommendation Example 3</b>
+  <br><img src="./images/recommendation-three.png" alt="Recommendation Example 3" width="80%" />
 </div>
 
 ---
